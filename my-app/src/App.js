@@ -27,7 +27,7 @@ class App extends Component {
           <p>Angular in React</p>
         </header>
   
-        <app-form name="Susmita" ref={this.handleRef} ></app-form>
+        <app-form name="John" ref={this.handleRef} ></app-form>
   
       </div>
     );
